@@ -1,0 +1,6 @@
+Button;obj\Debug\44\res\layout\main.xml
+CheckBox;obj\Debug\44\res\layout\main.xml
+RelativeLayout;obj\Debug\44\res\layout\main.xml
+resources;obj\Debug\44\res\values\strings.xml
+string;obj\Debug\44\res\values\strings.xml
+TextView;obj\Debug\44\res\layout\main.xml
